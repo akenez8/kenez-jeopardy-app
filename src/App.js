@@ -1,23 +1,31 @@
-import logo from './logo.svg';
+
 import './App.css';
+import { useState } from 'react';
 
 function App() {
+  const[name1,setName1]=useState("")
+  const[name2,setName2]=useState("")
+  const[name3,setName3]=useState("")
+  const[name4,setName4]=useState("")
+  const[points1,setPoints1]=useState("")
+  const[points2,setPoints2]=useState("")
+  const[points3,setPoints3]=useState("")
+  const[points4,setPoints4]=useState("")
+
+  function sumTotal(x,y){
+    return x + y;
+  }
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
+      <p className="title">
+          KENEZ JEOPARDY
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+        <div clasName="players">
+          players go here
+          </div>
+        <div className="boardDiv">
+          THE JEOPARDY BOARD WILL GO HERE
+        </div>
     </div>
   );
 }
