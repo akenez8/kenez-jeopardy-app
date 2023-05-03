@@ -25,7 +25,7 @@ function App() {
           KENEZ JEOPARDY
         </p>
         <div clasName="players">
-          players go here
+          players go here. THIS IS A TEST
           </div>
         <div className="boardDiv">
           THE JEOPARDY BOARD WILL GO HERE
