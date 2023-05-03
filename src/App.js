@@ -3,6 +3,10 @@ import './App.css';
 import { useState } from 'react';
 
 function App() {
+  // fetch("http://localhost:3001/music")
+  // .then(res => res.json())
+  // .then(musicObj => renderCategory(musicObj))
+
   const[name1,setName1]=useState("")
   const[name2,setName2]=useState("")
   const[name3,setName3]=useState("")
