@@ -1,6 +1,11 @@
+.App{
+  background-color: blue;
+}
+
+
 .title{
   background-color: black;
-  color:blue;
+  color:Yellow;
   font-size: 50px;
   text-align: center;
   margin: 0%;
@@ -8,13 +13,60 @@
 
 .boardDiv{
   background-color: black;
-  color: blue;
+  color: yellow;
   display: block;
   align-items: center;
 }
 
-.players{
-  background-color: white;
-  color: Black;
-  text-align: center;
+.teamDiv{
+  display: flex;
+  background-color: blue;
+  color: yellow;
+  font-size: 40px;
+  margin-left: 10px;
+}
+
+.addButton{
+  background-color: yellow;
+  color:blue;
+  font-size: 14px;
+  height: 25px;
+  width: 45px;
+  margin-left: 50px;
+}
+
+.subtractButton{
+  background-color: yellow;
+  color:blue;
+  font-size: 14px;
+  height: 25px;
+  width: 45px;
+  margin-right: 95px;
+}
+
+.scoreDiv{
+  display: flex;
+  background-color: blue;
+  color: yellow;
+  margin-left: 20px;
+}
+
+.scoreButtonsDiv{
+  display: flex;
+  background-color: blue;
+  color: yellow;
+  margin-left: 60px;
+}
+
+.teamScores{
+  display: flex;
+  background-color: blue;
+  color: yellow;
+  margin-left: 100px;
+  margin-right: 80px;
+}
+
+.teamNames{
+  margin-left: 40px;
+  margin-right: 40px;
 }

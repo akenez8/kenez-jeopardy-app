@@ -1,0 +1,130 @@
+{
+  "Music": [
+    {
+      "id": 1,
+      "points": "100",
+      "question": "What famous artist had a horrific jet-ski accident that essentially ended their career? hint: it isn't D.J. Khaled",
+      "answer": "Sean Kingston"
+    },
+    {
+      "id": 2,
+      "points": "200",
+      "question": "What is the song that is played in Kenez's favorite family guy scene where Peter is flying down the highway in his red station wagon fleeing the cops?",
+      "answer": "Panama by Van Halen"
+    },
+    {
+      "id": 3,
+      "points": "300",
+      "question": "What artist said this lyric? 'They say that I'm crazy. I used to TALK TO A STOVE'?",
+      "answer": "2 Chainz"
+    },
+    {
+      "id": 4,
+      "points": "400",
+      "question": "In Counter-Strike, what song does plays when Kenez wins MVP?",
+      "answer": "Life's not out to get you by Neck Deep"
+    },
+    {
+      "id": 5,
+      "points": "500",
+      "question": "Finish the Lyric: I said 'Look man, come down here', he got down there, he said 'Whatchu want'",
+      "answer": "One Bourbon, One Scotch, One Beer"
+    }
+  ],
+  "Games": [
+      {
+        "id": 1,
+        "points": "100",
+        "question": "What is the highest rank Kenez has achieved in Rocket League?",
+        "answer": "Grand Champion"
+      },
+      {
+        "id": 2,
+        "points": "200",
+        "question": "Kenez has a prized Glock in Counter-Strike. It has 4 stickers on it. What team are those stickers from?",
+        "answer": "Natus Vincere"
+      },
+      {
+        "id": 3,
+        "points": "300",
+        "question": "What is the one true way to officially join the beasts?",
+        "answer": "You must hit a current member of the beasts with a forbidden combo in brawlhalla, also known as 'The Russian Mafia'"
+      },
+      {
+        "id": 4,
+        "points": "400",
+        "question": "What game series has Kenez beaten 7 different versions of? hint: this series has been around the late 1990s and is still making releases",
+        "answer": "Pokemon"
+      },
+      {
+        "id": 5,
+        "points": "500",
+        "question": "In Counter-Strike, what is Kenez's nickname?",
+        "answer": "Nade Boi"
+      }
+    ],
+    "Booze": [
+      {
+        "id": 1,
+        "points": "100",
+        "question": "What is Kenez's favorite non-IPA beer?",
+        "answer": "Samuel Adams Cold Snap"
+      },
+      {
+        "id": 2,
+        "points": "200",
+        "question": "This shot involving whiskey is one Kenez has vowed never to drink under any circumstance. What is it?",
+        "answer": "A pickle-back shot"
+      },
+      {
+        "id": 3,
+        "points": "300",
+        "question": "In which drinking game did Kenez take on the Legendary Reef and Sweeney with his partner-in-crime Sooz down the shore and emerge victorious?",
+        "answer": "Beer Pong"
+      },
+      {
+        "id": 4,
+        "points": "400",
+        "question": "In the song 'Tubthumping' by Chumbawumba, what are the 4 drinks that the man drinks?",
+        "answer": "He drinks a whiskey drink, he drinks a vodka drink, he drinks a lager drink, he drinks a cider drink."
+      },
+      {
+        "id": 5,
+        "points": "500",
+        "question": "This sour-beer has made an appearance in the 'beer-reccomendations' chat in discord and is Kenez's favorite sour beer. What is it?",
+        "answer": "Watercolors Skygazer Raspberry Blueberry Cheesecake Creamee"
+      }
+    ],
+    "General": [
+      {
+        "id": 1,
+        "points": "100",
+        "question": "What car does Kenez drive?",
+        "answer": "Honda CR-V"
+      },
+      {
+        "id": 2,
+        "points": "200",
+        "question": "What is the accurate term for Kenez's status as a programmer?",
+        "answer": "Code God"
+      },
+      {
+        "id": 3,
+        "points": "300",
+        "question": "Kenez's father was not originally from the United States. What Country did he emgigrate from?",
+        "answer": "Hungary"
+      },
+      {
+        "id": 4,
+        "points": "400",
+        "question": "Kenez played many sports when he was younger. What is the last organized sport that he played?",
+        "answer": "Tennis"
+      },
+      {
+        "id": 5,
+        "points": "500",
+        "question": "What is the one place where Kenez is always down to get food at?",
+        "answer": "TACO BELL"
+      }
+    ]
+}
