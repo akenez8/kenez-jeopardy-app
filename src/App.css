@@ -70,3 +70,20 @@
   margin-left: 40px;
   margin-right: 40px;
 }
+
+.categoriesDiv{
+  display:flex;
+  margin-left: 5%;
+}
+
+.questionsDiv{
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.questionCard{
+  margin-right: 5%;
+  width: 250px;
+  height: 200px;
+  cursor: pointer;
+}

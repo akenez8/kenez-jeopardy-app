@@ -3,10 +3,10 @@ import { useState, useEffect } from 'react';
 import Board from './Board';
 
 function App() {
-  const[cat1, setCat1] = useState("")
-  const[cat2, setCat2] = useState("")
-  const[cat3, setCat3] = useState("")
-  const[cat4, setCat4] = useState("")
+  let [cat1, setCat1] = useState("")
+  let [cat2, setCat2] = useState("")
+  let [cat3, setCat3] = useState("")
+  let [cat4, setCat4] = useState("")
   let [team1Points,setTeam1Points] = useState(0); 
   let [team2Points,setTeam2Points] = useState(0);
   let [team3Points,setTeam3Points] = useState(0);
