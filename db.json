@@ -21,7 +21,7 @@
     {
       "id": 4,
       "points": "400",
-      "question": "In Counter-Strike, what song does plays when Kenez wins MVP?",
+      "question": "In Counter-Strike, what song plays when Kenez wins MVP?",
       "answer": "Life's not out to get you by Neck Deep"
     },
     {
@@ -53,7 +53,7 @@
       {
         "id": 4,
         "points": "400",
-        "question": "What game series has Kenez beaten 7 different versions of? hint: this series has been around the late 1990s and is still making releases",
+        "question": "What game series has Kenez beaten 7 different versions of? hint: this series has been around since the late 1990s and is still making releases",
         "answer": "Pokemon"
       },
       {
@@ -111,7 +111,7 @@
       {
         "id": 3,
         "points": "300",
-        "question": "Kenez's father was not originally from the United States. What Country did he emgigrate from?",
+        "question": "Kenez's father was not originally from the United States. What Country did he emigrate from?",
         "answer": "Hungary"
       },
       {
@@ -123,8 +123,40 @@
       {
         "id": 5,
         "points": "500",
-        "question": "What is the one place where Kenez is always down to get food at?",
-        "answer": "TACO BELL"
+        "question": "Kenez had a brief stint with the Air Force. What was his AFSC/job?",
+        "answer": "Geospatial Intelligence"
+      }
+    ],
+    "FunFacts": [
+      {
+        "id": 1,
+        "points": "100",
+        "question": "What is Kenez's favorite color?",
+        "answer": "Blue"
+      },
+      {
+        "id": 2,
+        "points": "200",
+        "question": "In Rocks, Paper, Scissors, what is the only option that Kenez ever chooses?",
+        "answer": "I ONLY THROW ROCK BABYYY"
+      },
+      {
+        "id": 3,
+        "points": "300",
+        "question": "What is the first game that Kenez had on his phone?",
+        "answer": "Doodle Jump"
+      },
+      {
+        "id": 4,
+        "points": "400",
+        "question": "How many cousins does Kenez have?",
+        "answer": "4"
+      },
+      {
+        "id": 5,
+        "points": "500",
+        "question": "Taco Bell just recently got rid of Kenez's favorite item from their menu. What is that item?",
+        "answer": "The Beef Quesarito"
       }
     ]
 }

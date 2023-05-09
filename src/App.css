@@ -24,6 +24,7 @@
   color: yellow;
   font-size: 40px;
   margin-left: 10px;
+  align-items: center;
 }
 
 .addButton{
@@ -33,6 +34,7 @@
   height: 25px;
   width: 45px;
   margin-left: 50px;
+  cursor: pointer;
 }
 
 .subtractButton{
@@ -42,6 +44,7 @@
   height: 25px;
   width: 45px;
   margin-right: 95px;
+  cursor: pointer;
 }
 
 .scoreDiv{
@@ -64,13 +67,27 @@
   color: yellow;
   margin-left: 100px;
   margin-right: 80px;
+  border: dotted;
+  border-color: yellow;
+  font-size: 18px;
+  width: 300px;
 }
 
 .teamNames{
   margin-left: 40px;
   margin-right: 40px;
+  border: solid;
+  border-color: yellow;
 }
 
+.catTitle{
+  color: yellow;
+  background-color: blue;
+  font-size: 40px;
+  border-style: solid;
+  border-width: 2%;
+  text-align: center;
+}
 .categoriesDiv{
   display:flex;
   margin-left: 5%;
@@ -82,8 +99,13 @@
 }
 
 .questionCard{
+  margin-top: 0;
   margin-right: 5%;
   width: 250px;
   height: 200px;
   cursor: pointer;
+  border-style: solid;
+  border-width: 1%;
+  text-align: center;
+  font-size: 32px;
 }

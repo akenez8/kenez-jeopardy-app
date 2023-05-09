@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-function Cat3Cards({ cat3 }) {
+function Cat5Cards({ cat5 }) {
   let [c1Clicked, setc1Clicked] = useState(0);
   let [c2Clicked, setc2Clicked] = useState(0);
   let [c3Clicked, setc3Clicked] = useState(0);
@@ -49,18 +49,18 @@ function Cat3Cards({ cat3 }) {
 
   return (
     <div className="QuestionsDiv">
-      <p className="catTitle">Booze</p>
+      <p className="catTitle">Fun Facts</p>
       {c1Clicked === 0 ? (
         <p className="questionCard" onClick={c1Click}>
           100
         </p>
       ) : c1Clicked === 1 ? (
         <p className="questionCard" onClick={c1Click}>
-          Q: {cat3[0].question}
+          Q: {cat5[0].question}
         </p>
       ) : (
         <p className="questionCard" onClick={c1Click}>
-          A: {cat3[0].answer}
+          A: {cat5[0].answer}
         </p>
       )}
       {c2Clicked === 0 ? (
@@ -69,11 +69,11 @@ function Cat3Cards({ cat3 }) {
         </p>
       ) : c2Clicked === 1 ? (
         <p className="questionCard" onClick={c2Click}>
-          Q: {cat3[1].question}
+          Q: {cat5[1].question}
         </p>
       ) : (
         <p className="questionCard" onClick={c2Click}>
-          A: {cat3[1].answer}
+          A: {cat5[1].answer}
         </p>
       )}
       {c3Clicked === 0 ? (
@@ -82,11 +82,11 @@ function Cat3Cards({ cat3 }) {
         </p>
       ) : c3Clicked === 1 ? (
         <p className="questionCard" onClick={c3Click}>
-          Q: {cat3[2].question}
+          Q: {cat5[2].question}
         </p>
       ) : (
         <p className="questionCard" onClick={c3Click}>
-          A: {cat3[2].answer}
+          A: {cat5[2].answer}
         </p>
       )}
       {c4Clicked === 0 ? (
@@ -95,11 +95,11 @@ function Cat3Cards({ cat3 }) {
         </p>
       ) : c4Clicked === 1 ? (
         <p className="questionCard" onClick={c4Click}>
-          Q: {cat3[3].question}
+          Q: {cat5[3].question}
         </p>
       ) : (
         <p className="questionCard" onClick={c4Click}>
-          A: {cat3[3].answer}
+          A: {cat5[3].answer}
         </p>
       )}
       {c5Clicked === 0 ? (
@@ -108,15 +108,15 @@ function Cat3Cards({ cat3 }) {
         </p>
       ) : c5Clicked === 1 ? (
         <p className="questionCard" onClick={c5Click}>
-          Q: {cat3[4].question}
+          Q: {cat5[4].question}
         </p>
       ) : (
         <p className="questionCard" onClick={c5Click}>
-          A: {cat3[4].answer}
+          A: {cat5[4].answer}
         </p>
       )}
     </div>
   );
 }
 
-export default Cat3Cards;
+export default Cat5Cards;
